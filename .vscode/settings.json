@@ -1,0 +1,8 @@
+{
+    "python.analysis.extraPaths": [
+        "./17-smartcitygoslar/MachineLearning",
+        "./17-smartcitygoslar/smartcity-backend",
+        "./17-smartcitygoslar/MachineLearning/Forecast",
+        "./17-smartcitygoslar/MachineLearning/Data"
+    ]
+}
